@@ -4,7 +4,7 @@
 # [Demo](https://flutterwebadmindashboard-ozrgbodeiy.now.sh/#/)
 
 
-This project was generated with [Flutter Web](https://github.com/flutter/flutter_web).
+This project was generated with [Flutter Web](https://github.com/simpalwebvision).
 
 ### Introduction
 
